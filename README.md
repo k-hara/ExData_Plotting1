@@ -1,4 +1,4 @@
-## This is the repository to post the figures and codes for Assignment of Course Project 1 in Exploratory Data Analysis.
+## This is the repository to post the figures and codes for Assignment of Course Project 1 in the course "Exploratory Data Analysis".
 
  The following is describing what to do.
 
