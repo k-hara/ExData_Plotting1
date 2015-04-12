@@ -1,3 +1,9 @@
+## This is the repository to post the figures and codes for Assignment of Course Project 1 in Exploratory Data Analysis.
+
+ The following is describing what to do.
+
+
+
 ## Introduction
 
 This assignment uses data from
@@ -87,28 +93,4 @@ include the code that creates the PNG file.
 When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
-
-
-The four plots that you will need to construct are shown below. 
-
-
-### Plot 1
-
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
-
-### Plot 2
-
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
-
-### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
-
-### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
